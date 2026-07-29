@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.tendo.customer"
+    name: "Glover"
+  ios:
+    id: "com.tendo.customer"
+    name: "Glover"
